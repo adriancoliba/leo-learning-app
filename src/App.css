@@ -57,6 +57,10 @@ nav button:last-child {
   color: white;
   padding: 20px;
   border: 1px solid white;
+  background-color: #111827;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  -webkit-box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  -moz-box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
 
 .checkout .list-items {
@@ -120,6 +124,14 @@ nav button:last-child {
   font-weight: 600;
   margin-top: -5px;
   color: #111827;
+}
+.tile-offer {
+  font-size: 30px;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  color: red;
+  font-weight: 500;
+
 }
 .tile-description {
   margin-top: 20px;
