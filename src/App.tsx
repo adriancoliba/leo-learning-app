@@ -87,7 +87,7 @@ function App() {
 
   useEffect(() => {
     if (Object.keys(items).length > 0) {
-      // calculate total checkout
+      // calculate total
       let sum = 0;
       const prices: any = {} // { apples: 0.60 }
 
